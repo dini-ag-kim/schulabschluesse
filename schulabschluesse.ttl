@@ -54,13 +54,13 @@
     skos:topConceptOf <> .
 
 <a0e105c6-0fd3-49a0-aa12-8b15a8d6da5a> a skos:Concept ;
-    skos:prefLabel "fachgebundene Hochschulreife"@de ;
+    skos:prefLabel "Fachgebundene Hochschulreife"@de ;
     skos:exactMatch wd:Q1391140 ;
     gndo:broaderTermGeneral gnd:4160223-7 ;
     skos:topConceptOf <> .
 
 <669bd2d6-a4f1-4234-acdb-5f5031b1c77d> a skos:Concept ;
-    skos:prefLabel "allgemeine Hochschulreife"@de ;
+    skos:prefLabel "Allgemeine Hochschulreife"@de ;
     skos:altLabel "Abitur"@de ;
     skos:exactMatch wd:Q708387 ;
     skos:exactMatch gnd:4049194-8 ;
