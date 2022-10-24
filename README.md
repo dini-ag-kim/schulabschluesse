@@ -8,7 +8,7 @@ Mappings zu der [Codeliste](https://xschule.digital/def/xschule/0.3/code/urn-xbi
 
 ## Maintainer\*innen
 
-Steffen Rörtgen](https://github.com/sroertgen) und [Manuel Oellers](https://github.com/oellers)
+[Steffen Rörtgen](https://github.com/sroertgen) und [Manuel Oellers](https://github.com/oellers)
 
 **Mitarbeit und Kontakt** über [Issues](https://github.com/dini-ag-kim/schulabschluesse/issues/), die [Mailingliste der OER-Metadatengruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer) oder die [Mailingliste der Curricula-Gruppe](https://lists.dnb.de/mailman/listinfo/dini-ag-kim-curricula).
 
