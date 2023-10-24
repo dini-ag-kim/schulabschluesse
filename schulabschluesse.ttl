@@ -12,6 +12,7 @@
 <> a skos:ConceptScheme;
     dct:title "Schulabschlüsse"@de ;
     dct:description "Eine Wertelliste für Schulabschlüsse in Deutschland."@de ;
+    dct:publisher "DINI-AG-KIM OER-Metadatengruppe"@de ;
     dct:created "2022-09-28"^^xsd:date ;
     dct:modified "2022-09-28"^^xsd:date ;
     dct:issued "2022-09-28"^^xsd:date ;
